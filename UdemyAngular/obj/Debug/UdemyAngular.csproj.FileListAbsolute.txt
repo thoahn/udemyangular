@@ -1,0 +1,92 @@
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\ApplicationInsights.config
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\roslyn\csc.exe
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\roslyn\System.Collections.Immutable.dll
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\roslyn\System.Reflection.Metadata.dll
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\roslyn\vbc.exe
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\roslyn\VBCSCompiler.exe
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\roslyn\VBCSCompiler.exe.config
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\UdemyAngular.dll.config
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\UdemyAngular.dll
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\UdemyAngular.pdb
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\Microsoft.AI.Agent.Intercept.dll
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\Microsoft.AI.DependencyCollector.dll
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\Microsoft.AI.Web.dll
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\Microsoft.AI.WindowsServer.dll
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\Microsoft.ApplicationInsights.dll
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\Microsoft.Web.Infrastructure.dll
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\System.Web.Helpers.dll
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\System.Web.Mvc.dll
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\System.Web.Razor.dll
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\System.Web.Webpages.Deployment.dll
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\System.Web.Webpages.dll
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\System.Web.Webpages.Razor.dll
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\Microsoft.AI.DependencyCollector.xml
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\Microsoft.AI.Web.xml
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\Microsoft.AI.WindowsServer.xml
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\Microsoft.ApplicationInsights.xml
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\System.Web.Razor.xml
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\System.Web.Webpages.xml
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\System.Web.Webpages.Deployment.xml
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\System.Web.Webpages.Razor.xml
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\System.Web.Helpers.xml
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\bin\System.Web.Mvc.xml
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\obj\Debug\UdemyAngular.csprojResolveAssemblyReference.cache
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\obj\Debug\UdemyAngular.dll
+C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\obj\Debug\UdemyAngular.pdb
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\ApplicationInsights.config
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\roslyn\vbc.exe
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\roslyn\csc.exe
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\roslyn\VBCSCompiler.exe
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\UdemyAngular.dll.config
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\UdemyAngular.dll
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\UdemyAngular.pdb
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\Microsoft.AI.Web.dll
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\Microsoft.ApplicationInsights.dll
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\System.Web.Helpers.dll
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\System.Web.Mvc.dll
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\System.Web.Razor.dll
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\System.Web.Webpages.Deployment.dll
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\System.Web.Webpages.dll
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\System.Web.Webpages.Razor.dll
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\Microsoft.AI.Web.xml
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\Microsoft.ApplicationInsights.xml
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\System.Web.Razor.xml
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\System.Web.Webpages.xml
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\System.Web.Webpages.Deployment.xml
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\System.Web.Webpages.Razor.xml
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\System.Web.Helpers.xml
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\bin\System.Web.Mvc.xml
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\obj\Debug\UdemyAngular.csprojResolveAssemblyReference.cache
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\obj\Debug\UdemyAngular.dll
+C:\Users\dogan.dagbasti\Desktop\Udemy Angular\UdemyAngular\obj\Debug\UdemyAngular.pdb

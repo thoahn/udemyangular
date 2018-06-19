@@ -1,0 +1,31 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html ng-app="mainApp">
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body ng-controller="mainController">
+
+    <h2>Shred Scope Directive</h2>
+    <shared-scope></shared-scope>
+
+    <h2>Isolate Scope Directive</h2>
+    <isolate-scope></isolate-scope>
+
+    <h2>Isolate Scope With String</h2>
+    <isolate-scope-with-string full-name="{{customer.name}}"></isolate-scope-with-string>
+
+    <script src="~/scripts/angular.min.js"></script>
+    <script src="~/Content/js/modules/mainApp.js"></script>
+    <script src="~/Content/js/controllers/mainController.js"></script>
+    <script src="~/Content/js/directives/sharedScope/sharedScope.js"></script>
+    <script src="~/Content/js/directives/isolateScope/isolateScope.js"></script>
+    <script src="~/Content/js/directives/isolateScopeWithString/isolateScopeWithString.js"></script>
+</body>
+</html>
