@@ -1,0 +1,8 @@
+﻿- Staging area'ya tüm modified olanları gönderme : 
+	git add .
+- Staging area'ya belli bir modified olanı gönderme : 
+	git add xxx.ts
+- Staging area'dan repoya gönderme
+	git commit -m "yorum yazılmalı."
+- Repodaki dosyaları github'a gönderme
+	git push githublinki.githublinki.abc
