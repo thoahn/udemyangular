@@ -118,6 +118,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\js\controllers\mainController.js" />
+    <Content Include="Content\js\directives\compileFunction\compileFunction.js" />
     <Content Include="Content\js\directives\helloWorld\helloWorld.js" />
     <Content Include="Content\js\directives\isolateScopeWithString\isolateScopeWithString.js" />
     <Content Include="Content\js\directives\isolateScope\isolateScope.js" />
@@ -901,6 +902,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\helloWorldController.cs" />
     <Compile Include="Controllers\isolateScopeController.cs" />
+    <Compile Include="Controllers\compileFunctionController.cs" />
     <Compile Include="Controllers\linkFunctionController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -930,6 +932,7 @@
     <Content Include="Views\helloWorld\Index.cshtml" />
     <Content Include="Views\isolateScope\Index.cshtml" />
     <Content Include="Views\linkFunction\Index.cshtml" />
+    <Content Include="Views\compileFunction\Index.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

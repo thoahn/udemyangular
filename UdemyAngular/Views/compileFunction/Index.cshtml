@@ -11,12 +11,18 @@
     <title>Index</title>
 </head>
 <body ng-controller="mainController">
-
-    <link-function ng-model="customer" directive-icinde-kullanilan-attr="[{Sayi : '1'},{Sayi : '2'}]"></link-function>
+    
+    <div>
+        <ul>
+            <li ng-repeat="cust in customers" delay-bind ="{{::cust.street}}" attribute="title" trigger="mouseenter">
+                <a delay-bind ="{{::cust.url}}" attribute="href" trigger="mouseenter">{{cust.name}}</a>
+            </li>
+        </ul>
+    </div>
 
     <script src="~/scripts/angular.min.js"></script>
     <script src="~/Content/js/modules/mainApp.js"></script>
     <script src="~/Content/js/controllers/mainController.js"></script>
-    <script src="~/Content/js/directives/linkFunction/linkFunction.js"></script>
+    <script src="~/Content/js/directives/compileFunction/compileFunction.js"></script>
 </body>
 </html>

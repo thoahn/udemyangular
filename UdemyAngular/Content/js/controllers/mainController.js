@@ -8,4 +8,17 @@ mainApp.controller('mainController', ($scope) => {
         street : '1324 Street'
     };
     
+    $scope.customers = [{
+        name: 'Seda',
+        street: '73 sokak',
+        url : 'url1/link'
+    }, {
+        name: 'Dogan',
+        street: '74 sokak',
+        url: 'url2/link'
+    }, {
+        name: 'Nil',
+        street: '75 sokak',
+        url: 'url3/link'
+    }];
 });
