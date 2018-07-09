@@ -1,6 +1,6 @@
 ﻿/// <reference path="C:\DOGAN\PROJELER\UdemyAngular\UdemyAngular\scripts/angular.js" />
 /// <reference path="../../modules/mainApp.js" />
-mainApp.directive('delayBind', ['$interpolate', ($interpolate) => {
+mainApp.directive('delayBind', ['$interpolate', ($interpolate) => {    
     return {
         restrict: 'A',
         compile: (elem, attr) => {
@@ -27,3 +27,17 @@ mainApp.directive('delayBind', ['$interpolate', ($interpolate) => {
         }
     };
 }]);
+
+//interpolation kullanımı için örnek
+//let ornekInter = $interpolate('<div>{{ornek.kod}} veee {{ornekSayi}}</div>');
+//  let ornekDegisken = {
+//      ornek : {
+//          kod : 'C++'
+//      },
+//      ornekSayi : 14
+//  }
+//console.log( ornekInter(ornekDegisken) );
+
+
+//eğer compile parametresi varsa, link parametresine girmiyor.
+//zaten compile içindeki post, compile ile aynı zamanda giriyor.

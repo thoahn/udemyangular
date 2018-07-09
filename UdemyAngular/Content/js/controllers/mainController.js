@@ -21,4 +21,9 @@ mainApp.controller('mainController', ($scope) => {
         street: '75 sokak',
         url: 'url3/link'
     }];
+
+
 });
+
+//copy fonksiyonu ile clone alabiliriz. Bu şekilde bir nesne için watcher açıldıysa, clone ayrı bir nesne olur ve watcher onu izlemeye devam etmez.
+//let newCopy = angular.copy($scope.customers);

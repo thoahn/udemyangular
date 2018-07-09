@@ -21,3 +21,7 @@ mainApp.directive('linkFunction', ['$parse', ($parse) => {
 
 
 }]);
+
+
+//require parametresi o attribute'u zorunlu yapar.
+//o şeklide bir attribute yoksa hata verir.
