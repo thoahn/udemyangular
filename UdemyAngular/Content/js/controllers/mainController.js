@@ -23,6 +23,10 @@ mainApp.controller('mainController', ($scope) => {
     }];
 
 
+    $scope.methodInMain = (parameterCome) => {
+        alert('I\'m a function in main controller and my parameter : ' + parameterCome);
+    };
+
 });
 
 //copy fonksiyonu ile clone alabiliriz. Bu şekilde bir nesne için watcher açıldıysa, clone ayrı bir nesne olur ve watcher onu izlemeye devam etmez.

@@ -13,7 +13,9 @@
 <body ng-controller="mainController">
 
     <h2>withControllerAs Directive</h2>
-    <with-controller-directive data-source="customers"></with-controller-directive>
+    <with-controller-directive d-source="customers" c-run="methodInMain(parameterCome)">
+        <gg>Selam kanka ben aradayım.</gg>
+    </with-controller-directive>
 
     <script src="~/scripts/angular.min.js"></script>
     <script src="~/Content/js/modules/mainApp.js"></script>
