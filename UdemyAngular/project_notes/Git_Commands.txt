@@ -6,3 +6,5 @@
 	git commit -m "yorum yazılmalı."
 - Repodaki dosyaları github'a gönderme
 	git push githublinki.githublinki.abc
+- İlk gönderirken
+	git clone https://thoahn@bitbucket.org/thoahn/maratonvip_obs.git
